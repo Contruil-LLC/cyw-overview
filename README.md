@@ -45,7 +45,7 @@ Each component has its own repository under the Contruil-LLC organization. Most 
 |------|-------|
 | December 30, 2025 | Defensive publication priority date established |
 | February 11, 2026 | Provisional patent filed (USPTO 63/980,310) |
-| Q3 2026 | Non-provisional filing target |
+| February 11, 2027 | Non-provisional filing deadline |
 | December 30, 2026 | §102(b)(1) grace period anchor |
 
 ---
